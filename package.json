@@ -1,0 +1,25 @@
+{
+  "name": "cesium-project",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint"
+  },
+  "dependencies": {
+    "@turf/turf": "^7.2.0",
+    "cesium": "^1.134.0",
+    "next": "15.5.4",
+    "react": "19.1.0",
+    "react-dom": "19.1.0",
+    "resium": "^1.19.0-beta.1",
+    "shapefile": "^0.6.6"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "eslint": "^9",
+    "eslint-config-next": "15.5.4"
+  }
+}
